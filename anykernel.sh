@@ -39,7 +39,7 @@ PATCH_VBMETA_FLAG=auto;
 
 # boot install
 split_boot;
-ui_print "- Installing Nethunterised Kernel";
+ui_print "- Installing Grass Kernel";
 flash_boot;
 ## end boot install
 
