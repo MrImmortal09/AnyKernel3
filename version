@@ -1,19 +1,20 @@
 ****************************************************
-  ____                   _  __                    _
- / ___|_ __ __ _ ___ ___| |/ /___ _ __ _ __   ___| |
-| |  _| '__/ _` / __/ __| ' // _ \ '__| '_ \ / _ \ |
-| |_| | | | (_| \__ \__ \ . \  __/ |  | | | |  __/ |
- \____|_|  \__,_|___/___/_|\_\___|_|  |_| |_|\___|_|
-*****************************************************
+  _   _     __                    _
+ | \ | |    / /___ _ __ _ __   ___ | |
+ |  \| | _  ' // _ \ '__| '_ \ / _ \ |
+ | |\  |    | \  __/ |  | | | |  __/ |
+ |_| \_|    |\_\___|_|  |_| |_|\___|_|                           
+****************************************************
+
  Source    : Based on A515F_EUR_S source code 
- Chipset   : Exynos 9611 with Mali G72 MP3     
- Android   : For OneUI5/Supported AOSP ROMs
- Developer : Royna (@roynatech on TG)
- Support   : Telegram @MrImmortal09
+ Chipset   : Exynos 9611 (A51/F41/M31s/M30s/M31/M21) 
+ Android   : AOSP ROMs
+ Developer : MrImmortal09
+ Version   : v1.0.0 Release
 *****************************************************
-Special thanks to Royna & Cat65801 
+             N-Kernel MAIN FEATURES                 
 *****************************************************
-                  MAIN FEATURES                 
-*****************************************************
- Fully Nethunterised Kernel
+  rtl88xxau-5.6.4.2 drivers
+  USB HID support
+  Wifi injection
 *****************************************************
